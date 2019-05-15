@@ -1,4 +1,4 @@
-# ds-take-home-project
+# Flatiron School Data Science Take-Home Assignment
 
 This is the take-home project for the DS Curriculum Writer position at Flatiron School.
 
