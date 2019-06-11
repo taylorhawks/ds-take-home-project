@@ -2,7 +2,7 @@
 
 This is the take-home project for the DS Curriculum Writer position at Flatiron School.
 
-- **Step 1**: Create a clone of this repository, resulting in a repo https://github.com/YourUserName/ds-take-home-project
+- **Step 1**: Create a fork of this repository, resulting in a repo https://github.com/YourUserName/ds-take-home-project
 
 - **Step 2**: Create a new branch named `edits` in your forked repository, pull this branch locally, and make changes to the Jupyter Notebook
 
